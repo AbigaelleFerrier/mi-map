@@ -1,2 +1,2 @@
-# mi-map
+# Mi-map
 React project on MIW 
